@@ -1,2 +1,2 @@
-# admin
-admin
+# Login : admin
+#Parol : admin
